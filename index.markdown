@@ -1,5 +1,6 @@
 # About Me
-![Samuel's Profile Picture](Images/sam.JPG)
+<img src="Images/sam.JPG" alt="Samuel's Profile Picture" width="300" />
+
 
 
 I’m **Samuel**, a passionate **Web Developer** and **Software Engineer** with a strong focus on creating impactful solutions. I have a solid foundation in **Web Development**, **API Development**, **Machine Learning**, and **Software Engineering**.
