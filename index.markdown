@@ -1,5 +1,5 @@
 # About Me
-<img src="Images/sam.JPG" alt="Samuel's Profile Picture" width="300" />
+<img src="Images/sam.JPG" alt="Samuel's Profile Picture" width="300" height="400" />
 
 
 
